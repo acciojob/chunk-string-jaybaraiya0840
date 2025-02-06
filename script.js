@@ -1,5 +1,4 @@
-function stringChop(str, size) {
-  // your code here
+
 	function stringChop(str, size) {
     let result = [];
 	 if (!str) { 
